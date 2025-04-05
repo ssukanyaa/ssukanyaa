@@ -1,5 +1,5 @@
 ## Hi, I'm Sukanyaa Sundaram 👋
-A passionate Data Scientist & Machine Learning enthusiast.
+A Passionate Data Scientist & Machine Learning Enthusiast.
 
 ## 🧠 Skills
 **Languages**:  
@@ -12,7 +12,7 @@ Classification, Regression, Clustering, Boosting, Bagging, Hyperparameter Tuning
 ARIMA, SARIMA, SARIMAX, Prophet, Facebook Prophet with Regressors, Rolling Forecasts, Decomposition, Stationarity Testing (ADF), Seasonality Analysis, RMSE/MAE Evaluation
 
 **Data Manipulation & Analysis**:  
-Pandas, NumPy, EDA (Exploratory Data Analysis), Feature Engineering, Data Cleaning
+Pandas, NumPy, Scikit-learn, EDA (Exploratory Data Analysis),  Matplotlib, Seaborn, Feature Engineering, Data Cleaning
 
 **Visualization**:  
 Matplotlib, Seaborn, Plotly, Time Series Plots, Seasonal-Trend Decomposition, Power BI Dashboards
