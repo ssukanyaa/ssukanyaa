@@ -6,7 +6,7 @@ A Passionate Data Scientist & Machine Learning Enthusiast.
 Python, SQL
 
 **Machine Learning**:  
-Classification, Regression, Clustering, Boosting, Bagging, Hyperparameter Tuning, XGBoost, LightGBM, CatBoost, Ensemble Methods
+Classification, Regression, Clustering, Boosting, Bagging, Hyperparameter Tuning, XGBoost, LightGBM, CatBoost, Ensemble Methods, Probabilistic Modeling
 
 **Time Series Forecasting**:  
 ARIMA, SARIMA, SARIMAX, Prophet, Facebook Prophet with Regressors, Rolling Forecasts, Decomposition, Stationarity Testing (ADF), Seasonality Analysis, RMSE/MAE Evaluation
