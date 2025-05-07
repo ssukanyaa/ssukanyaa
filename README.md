@@ -17,7 +17,7 @@ Pandas, NumPy, Scikit-learn, EDA (Exploratory Data Analysis),  Matplotlib, Seabo
 **Visualization**:  
 Matplotlib, Seaborn, Plotly, Time Series Plots, Seasonal-Trend Decomposition, Power BI Dashboards
 
-**Deployment & App Development**:
+**Deployment & App Development**:  
 Streamlit, Joblib, Pipeline Serialization, Model Inference APIs
 
 ## 📫 Connect with me: 
